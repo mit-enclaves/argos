@@ -1,6 +1,6 @@
 # Argos
 
-This is the parent repository for the artifacts of Argos.
+This is the parent repository for the differentartifacts of Argos.
 
 It contains all required repositories to set up, run, and reproduce the experiments presented in the [Argos Paper](https://arxiv.org/pdf/2412.03550).
 
@@ -32,8 +32,8 @@ It can be found in the `tyche-devel` subrepository.
 
 ## Running experiments
 
-To run the different benchmarks and applications present in the paper, see the README of the `tyche-experiment-seal` repository.
+To run the different benchmarks and applications present in the paper, see the README of the `argos-experiment-seal` repository.
 
 ## Running expriments with Gramine
 
-To run the benchmarks using gramine, see the 'tyche-devel' repository.
+To run the benchmarks using gramine, see the `argos-gramine-testbench` repository.
