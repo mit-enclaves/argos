@@ -1,3 +1,9 @@
 [submodule "argos-experiment-seal"]
 	path = argos-experiment-seal
 	url = git@github.com:mit-enclaves/tyche-experiment-seal.git
+[submodule "argos-monitor"]
+	path = argos-monitor
+	url = git@github.com:mit-enclaves/argos-monitor.git
+[submodule "argos-gramine-testbench"]
+	path = argos-gramine-testbench
+	url = git@github.com:mit-enclaves/argos-gramine-testbench.git
