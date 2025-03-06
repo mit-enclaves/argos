@@ -1,0 +1,3 @@
+[submodule "tyche-experiment-seal"]
+	path = tyche-experiment-seal
+	url = git@github.com:mit-enclaves/tyche-experiment-seal.git
