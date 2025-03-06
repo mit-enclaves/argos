@@ -28,7 +28,7 @@ By demonstrating how to combine cryptography with trusted hardware, Argos paves 
 ## Building Argos
 
 Argos security monitor is based on a fork of the Tyche library from EPFL.
-It can be found in the `tyche-devel` subrepository.
+It can be found in the `argos-monitor` subrepository.
 
 ## Running experiments
 
