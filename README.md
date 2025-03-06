@@ -6,7 +6,7 @@ It contains all required repositories to set up, run, and reproduce the experime
 
 *Teaching an Old Dog New Tricks: Verifiable FHE Using Commodity Hardware*
 
-Jules Drean, Fisher Jepsen, Edward Suh, Srini Devadas, Aamer Jaleel, Gururaj Saileshwar
+Jules Drean, Fisher Jepsen, Edward Suh, Srini Devadas, Aamer Jaleel, Gururaj Saileshwar.
 
 ## Summary
 
