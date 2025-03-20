@@ -33,3 +33,9 @@ It can be found in the `argos-monitor` subrepository.
 ## Running experiments
 
 To run the different benchmarks and applications present in the paper, see the README of the `argos-experiment-seal` repository.
+
+## Running expriments with Gramine
+
+To run the benchmarks using gramine, see the `argos-gramine-testbench` repository.
+
+Note that to run benchmarks under gramine, you must use the `argos_gramine` branch of [`argos-monitor`](https://github.com/mit-enclaves/argos-monitor/tree/argos_gramine).

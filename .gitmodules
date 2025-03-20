@@ -7,3 +7,6 @@
 [submodule "wolftpm-sys"]
 	path = wolftpm-sys
 	url = https://github.com/mit-enclaves/wolftpm-sys.git
+[submodule "argos-gramine-testbench"]
+	path = argos-gramine-testbench
+	url = https://github.com/mit-enclaves/argos-gramine-testbench.git
