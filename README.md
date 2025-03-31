@@ -11,7 +11,7 @@ Jules Drean, Fisher Jepsen, Edward Suh, Srini Devadas, Aamer Jaleel, Gururaj Sai
 ## Summary
 
 Argos is a simple approach for adding verifiability to fully homomorphic encryption (FHE) schemes using trusted hardware. 
-Traditional approaches to verifiable FHE require expensive cryptographic proofs, which incur an overhead of up to seven orders of magnitude \emph{on top of FHE}, making them impractical.
+Traditional approaches to verifiable FHE require expensive cryptographic proofs, which incur an overhead of up to seven orders of magnitude **on top of FHE**, making them impractical.
 
 With Argos, we show that trusted hardware can be securely used to provide verifiability for FHE computations, with minimal overhead relative to the baseline FHE computation.
 An important contribution of Argos is showing that the major security pitfall associated with trusted hardware, *microarchitectural* side channels, can be completely mitigated by excluding any secrets from the CPU and the memory hierarchy.
