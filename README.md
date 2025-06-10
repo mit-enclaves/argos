@@ -1,6 +1,6 @@
 # Argos
 
-This is the parent repository for the differentartifacts of Argos.
+This is the parent repository for the different artifacts of Argos.
 
 It contains all required repositories to set up, run, and reproduce the experiments presented in the [Argos Paper](https://arxiv.org/pdf/2412.03550).
 
