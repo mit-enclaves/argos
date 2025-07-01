@@ -27,15 +27,24 @@ By demonstrating how to combine cryptography with trusted hardware, Argos paves 
 
 ## Building Argos
 
+First, recursively clone the submodules of this project.
+
+```sh
+$ git submodule update --init --recursive
+```
+
 Argos security monitor is based on a fork of the Tyche library from EPFL.
-It can be found in the `argos-monitor` subrepository.
+
+It can be found in the `argos-monitor` repository.
 
 ## Running experiments
 
-To run the different benchmarks and applications present in the paper, see the README of the `argos-experiment-seal` repository.
+To view the source code for the different benchmarks and applications present in the paper, see the `argos-experiment-seal` repository.
 
-## Running expriments with Gramine
+To build and run the experiments, use the `argos-monitor` repository's README which includes instructions to build and run the experiments.
 
-To run the benchmarks using gramine, see the `argos-gramine-testbench` repository.
+## Running experiments with Gramine
+
+To run the benchmarks using Gramine, see the `argos-gramine-testbench` repository.
 
 Note that to run benchmarks under gramine, you must use the `argos_gramine` branch of [`argos-monitor`](https://github.com/mit-enclaves/argos-monitor/tree/argos_gramine).
